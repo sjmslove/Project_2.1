@@ -1,7 +1,7 @@
 /**
  *   @author Sierra Smith (sjsmith8147@gmail.com
  *   @version 0.2.2
- *   @summary Project 3 demo code || created: 03.16.2016
+ *   @summary recursion
  *   @todo
  */
 
